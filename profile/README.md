@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg" height="50px">
-    <img alt="midori logo" src="./assets/banner.svg" height="50px">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg" height="80px">
+    <img alt="midori logo" src="./assets/banner.svg" height="80px">
   </picture>
 </p>
 
